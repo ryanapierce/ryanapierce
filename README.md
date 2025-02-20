@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!-
-**ryanapierce/ryanapierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, I'm Ryan Pierce, a data and analytics professional with experience in AI, cloud computing, and automation. I have a background in the automotive, finance, and military sectors, where I’ve worked on data-driven solutions, process automation, and scalable AI applications.
+I'm Ryan Pierce, a data and analytics professional with experience in AI, cloud computing, and automation. I have a background in the automotive, finance, and military sectors, where I’ve worked on data-driven solutions, process automation, and scalable AI applications.
 
 👨‍💻 What I Work On
 
@@ -27,4 +24,3 @@ GitHub: github.com/ryanapierce
 Website: ryanpierce.dev
 Check out my repos and feel free to reach out! 🚀
 
--->
