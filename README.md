@@ -4,8 +4,8 @@ I'm Ryan Pierce, a data and analytics professional with experience in AI, cloud 
 
 👨‍💻 What I Work On
 
-**AI & Machine Learning** – Building AI-powered applications, including chatbots using OpenAI, AWS Lambda, and API Gateway
-**Cloud & Automation** – Deploying serverless applications with AWS and automating workflows with GitHub Actions
+**AI & Machine Learning** – Building AI-powered applications, including chatbots using OpenAI, AWS Lambda, and API Gateway <br>
+**Cloud & Automation** – Deploying serverless applications with AWS and automating workflows with GitHub Actions <br>
 **Data Engineering & Analytics** – Leveraging Python, SQL, and Alteryx to streamline data pipelines and decision-making
 
 💡 Recent Projects
