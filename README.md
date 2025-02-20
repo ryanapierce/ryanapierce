@@ -23,5 +23,5 @@ I’m currently exploring new opportunities in data science, AI, cloud computing
 **GitHub:** [github.com/ryanapierce](https://github.com/ryanapierce) <br>
 **Website:** [ryanpierce.dev](https://ryanpierce.dev)
 
-Check out my repos and feel free to reach out! 🚀
+Check out my repos and feel free to reach out! 💯
 
